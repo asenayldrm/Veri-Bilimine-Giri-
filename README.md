@@ -1,2 +1,4 @@
-# Veri-Bilimine-Giri-
+# Veri-Bilimine-Giriş
 Blog yazısı
+
+Büyük verinin patlama yaptigi, bir dönemdeyiz. Veri bilimi olmadan, üretilen bu ve-riyi dogru sekilde analiz edip sonuç çikarmak mümkün degil. Artan büyük veriye ek olarak, teknoloji ve donanim altyapilarindaki gelismeleri de degerlendirdigimizde, veri bilimi odakh farkh uygulamalarin dogacagini ve bilimsel arastirma statüsün-de olan birçok çali,manin gündelik hayatimizda yerlerini alacagini rahathkla söy-leyebiliriz. Hastalarin tedavi süreçlerinde doktorlara tavsiyelerde bulunan, kanser olma riskini önceden tahmin eden, sosyal medya analizi yaparak paylasimlardaki duygu durumunu tespit eden, dogru çaliçanlari dogru firmalarla bulusturan, sadece parmak izimizden degil yazdigimiz metin içeriginden bizleri tanyan, fabrikalarda kestirimci bakim yapan, kisiye özel elektrik tarifesi olusturan uygulamalar, günlük hayatimizi oldukça kolaylastiracak gibi görünüyor.
